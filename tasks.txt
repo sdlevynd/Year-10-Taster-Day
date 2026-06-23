@@ -1,0 +1,44 @@
+intro to t-level presentation
+    course structure
+    year 12
+        paper 1, paper 2, esp
+    year 13
+        occupation specialism
+        placement
+            cox automotive
+                software
+                support
+            sep2
+                cybersecurity
+        work skills
+    technical specs
+        python in first year
+        python in second year
+            html, css
+            flask
+            sqlite
+            oop, orm, data models
+            development projects
+            
+
+
+python testing tasks
+
+
+snake game tasks
+work out why the snake moves across the screen so quickly
+work out why the player can't move the snake
+   fix the key presses
+   fix the movement system
+work out why the snake keeps growing
+   fix the fruit collision if statement
+
+
+now the game works
+change the colour of the snake from green to blue
+change the colour of the fruit
+change the speed of the snake
+
+advanced task:
+    make the snake loop back round to the other side of the screen when it leaves the screen
+    make the snake move randomly
